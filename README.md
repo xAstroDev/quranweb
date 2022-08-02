@@ -1,11 +1,11 @@
-# Quran_Website
+# QuranWeb
 
 <b> التقوى | موقع إسلامي</b><br>
 <b> يحتوي على فهرس للقرآن الكريم + القرآن الكريم بصيغ pdf + ويتحوي على 32 قارئ</b><br>
 <br><br>
 <br><br>
 
-https://rn0x.github.io/Quran_Website/
+https://xAstroDev.github.io/quranweb
  
 
 <b> صور للموقع</b><br>
